@@ -31,7 +31,7 @@ class StudentManagementApp(tk.Tk):
         # Header Line 
         tk.Label(
             header_frame, 
-            text="D. Y. PATIL COLLEGE OF ENGINEERING, PIMPRI, PUNE", 
+            text="DR.D. Y. PATIL INSTITUTE OF TECHNOLOGY, PIMPRI, PUNE", 
             font=('Helvetica', 20, 'bold'), 
             bg='red', 
             fg='white'
